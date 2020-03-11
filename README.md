@@ -229,6 +229,7 @@ This is the running list of what in tech has been affected by COVID-19. Pull req
 - [MongoDB World](https://www.mongodb.com/world): changed to a virtual event; re-branded as MongoDB.live
 - [National Association of Broadcasters (NAB)](https://nabshow.com/2020/attend/onsite-services/coronavirus-update-and-resources/): cancelled
 - [NetApp INSIGHT](https://blog.netapp.com/postponing-netapp-insight-paris-and-berlin-events/): postponed
+- [NG-CONF](https://www.ng-conf.org/): changed to a virtual event
 - [Nvidia GPU Technology Conference (GTC) 2020](https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus): online-only
 - [OCLC Resource Sharing Conference 2020](https://www.oclc.org/en/events/2020/Resource-Sharing-Conference.html): cancelled
 - [Oktane](https://www.oktane20.com/): changed to a virtual event
